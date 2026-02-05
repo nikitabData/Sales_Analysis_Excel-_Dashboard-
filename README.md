@@ -1,31 +1,22 @@
 # 📊 Sales Analysis Excel Dashboard
 
-An interactive **Excel dashboard** for analyzing sales and profit across regions, years, and product categories. Built to provide clear insights and support data-driven decisions.
+built an interactive Sales Analysis Dashboard using Microsoft Excel to analyze sales performance, profit trends, and category-wise contributions.
 
----
+🔍 Key Highlights:
+🔹 Regional Sales & Profit Analysis
+🔹 Category & Sub-Category Performance Breakdown
+🔹 Monthly Sales Trend Visualization
+🔹 KPI Cards for Total Sales & Total Profit
+🔹 Interactive Slicers for dynamic data filtering
 
-## 🔍 Features
+⚙️ Key Insights:
+🔹 South region recorded the lowest sales and profit 
+🔹 Office Supplies category contributed the lowest revenue
+🔹Sales trend shows strong growth after 2012
 
-- **Region-wise Analysis:** Compare sales & profit by region  
-- **Category Performance:** Breakdown by product category & subcategory  
-- **Sales Trend:** Time-series chart for monthly sales trends  
-- **Interactive Filters:** Year, Region, Product Category  
+🛠 Skills Applied:
+Data Cleaning | Pivot Tables | Pivot Charts | Dashboard Design | Data Visualization | Business Insight Generation
 
----
-
-## 🛠 Tools & Skills
-
-- Microsoft Excel  
-- Pivot Tables & Charts  
-- Slicers for dynamic filtering  
-- KPI Cards for Total Sales & Profit  
-
----
-
-## 📌 Key Metrics
-
-- **Total Sales:** 89,51,931.32  
-- **Total Profit:** 13,12,442.40  
 
 ---
 
