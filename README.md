@@ -5,15 +5,21 @@ built an interactive Sales Analysis Dashboard using Microsoft Excel to analyze s
 🔍 Key Highlights:
 
 🔹 Regional Sales & Profit Analysis
+
 🔹 Category & Sub-Category Performance Breakdown
+
 🔹 Monthly Sales Trend Visualization
+
 🔹 KPI Cards for Total Sales & Total Profit
+
 🔹 Interactive Slicers for dynamic data filtering
 
 ⚙️ Key Insights:
 
 🔹 South region recorded the lowest sales and profit 
+
 🔹 Office Supplies category contributed the lowest revenue
+
 🔹Sales trend shows strong growth after 2012
 
 🛠 Skills Applied:
